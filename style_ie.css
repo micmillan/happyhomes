@@ -1,0 +1,12 @@
+@charset "utf-8";
+/* CSS Document */
+
+.socialMedia ul li{
+	margin: 0 7px 0 0;
+}
+.footer_topWrap{
+	height: 401px;
+}
+.footer_btmWrap{
+	height: 391px;
+}
