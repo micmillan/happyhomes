@@ -159,11 +159,6 @@ h6{
 	padding: 0 0 10px 0;
 	margin: 0 0 0 0;
 }
-.searchWrap{
-	float: left;
-	width: 290px;
-	min-height: 40px;
-}
 .socialMedia{
 	float: right;
 	width: 140px;
@@ -225,6 +220,14 @@ h6{
 }
 .callAction .callNum span{
 	color: #433f2f;
+}
+
+
+/* search */
+.searchWrap{
+	float: left;
+	width: 290px;
+	min-height: 40px;
 }
 
 
